@@ -1,0 +1,7 @@
+Instance ID: i-01bba8cd415bc01ac
+Public IP: 18.200.81.225
+PRIVATE_IP: 172.31.29.125
+Security Groups: r5d4-sg
+OS info: Name: Ubuntu,Version: 24.04.1 LTS (Noble Numbat)
+Users: root:x:0:0:root:/root:/bin/bash
+ubuntu:x:1000:1000:Ubuntu:/home/ubuntu:/bin/bash
